@@ -7,13 +7,13 @@
 使用 `curl` 去下载脚本并且使用 `bash` 执行脚本：
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/zhende1113/Antlia/refs/heads/main/Script/AstrBot/Antlia.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/Astriora/Antlia/refs/heads/main/Script/AstrBot/Antlia.sh)
 ```
 
 如果你的系统没有 `curl`，你可以使用 `wget`：
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/zhende1113/Antlia/refs/heads/main/Script/AstrBot/Antlia.sh | bash
+wget -qO- https://raw.githubusercontent.com/Astriora/Antlia/refs/heads/main/Script/AstrBot/Antlia.sh | bash
 ```
 
-仓库地址：[zhende1113/Antlia](https://github.com/zhende1113/Antlia/)
+仓库地址：[Astriora/Antlia](https://github.com/Astriora/Antlia)
